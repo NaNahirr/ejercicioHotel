@@ -4,6 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
+    //agrego comwntarios, probando gestor de versiones
     public static void main(String[] args)  throws InputMismatchException, Exception{
         Hotel hotel = new Hotel();      
         try {
